@@ -1,0 +1,688 @@
+[
+{
+"id": 1,
+"categoria": "Retificadores Monofásicos",
+"pergunta": "No retificador monofásico de meia onda com carga resistiva, a tensão média de saída (Vdc) em função da tensão máxima da fonte (Vp) é:",
+"alternativas": ["Vp/π", "2·Vp/π", "Vp/2", "√2·Vp", "π·Vp"],
+"respostaCorreta": "Vp/π"
+},
+{
+"id": 2,
+"categoria": "Retificadores Monofásicos",
+"pergunta": "No retificador monofásico de onda completa em ponte com carga resistiva, a tensão média de saída (Vdc) em função da tensão máxima da fonte (Vp) é aproximadamente:",
+"alternativas": ["2·Vp/π", "Vp/π", "Vp/2", "2·Vp", "√2·Vp"],
+"respostaCorreta": "2·Vp/π"
+},
+{
+"id": 3,
+"categoria": "Retificadores Monofásicos",
+"pergunta": "Em um retificador de onda completa (ponte), comparado a um retificador de meia onda sob mesma tensão de entrada, qual característica do sinal de saída é verdadeira?",
+"alternativas": ["Maior tensão média de saída e menor ondulação", "Maior tensão média de saída e maior ondulação", "Menor tensão média de saída e menor ondulação", "Menor tensão média de saída e maior ondulação", "Mesma tensão média com ondulação reduzida"],
+"respostaCorreta": "Maior tensão média de saída e menor ondulação"
+},
+{
+"id": 4,
+"categoria": "Retificadores Monofásicos",
+"pergunta": "Quantos diodos são necessários em um retificador monofásico de meia onda?",
+"alternativas": ["1", "2", "3", "4", "0"],
+"respostaCorreta": "1"
+},
+{
+"id": 5,
+"categoria": "Retificadores Monofásicos",
+"pergunta": "Quantos diodos são necessários em um retificador monofásico de onda completa em ponte?",
+"alternativas": ["4", "2", "3", "6", "1"],
+"respostaCorreta": "4"
+},
+{
+"id": 6,
+"categoria": "Retificadores Monofásicos",
+"pergunta": "Qual é a frequência da tensão de saída em um retificador monofásico de meia onda, quando a fonte de entrada é 60 Hz?",
+"alternativas": ["60 Hz", "120 Hz", "30 Hz", "240 Hz", "Não há frequência definida"],
+"respostaCorreta": "60 Hz"
+},
+{
+"id": 7,
+"categoria": "Retificadores Monofásicos",
+"pergunta": "Qual é a frequência da tensão de saída em um retificador monofásico de onda completa (ponte), quando a fonte de entrada é 60 Hz?",
+"alternativas": ["120 Hz", "60 Hz", "240 Hz", "30 Hz", "Não há frequência definida"],
+"respostaCorreta": "120 Hz"
+},
+{
+"id": 8,
+"categoria": "Retificadores Monofásicos",
+"pergunta": "Se a carga de um retificador de meia onda for predominantemente indutiva, qual fenômeno ocorre na forma de onda da corrente de saída?",
+"alternativas": ["A corrente continua fluindo mesmo após a inversão da tensão da fonte", "A corrente para completamente quando a tensão inverte", "Não há corrente de saída devido ao indutor bloquear", "A forma de onda de tensão torna-se quadrada", "O diodo conduz em todos os ciclos"],
+"respostaCorreta": "A corrente continua fluindo mesmo após a inversão da tensão da fonte"
+},
+{
+"id": 9,
+"categoria": "Retificadores Monofásicos",
+"pergunta": "Em um retificador monofásico de onda completa com carga indutiva, o que ocorre com a corrente de saída quando a tensão da fonte cruza por zero?",
+"alternativas": ["A corrente mantém a condução por algum tempo", "A corrente zera instantaneamente", "A corrente sofre uma inversão de fase", "Não há condução em nenhum instante", "A corrente triplica"],
+"respostaCorreta": "A corrente mantém a condução por algum tempo"
+},
+{
+"id": 10,
+"categoria": "Retificadores Monofásicos",
+"pergunta": "Quantos diodos são usados em um retificador monofásico de onda completa com transformador de ponto médio (centro-tap)?",
+"alternativas": ["2", "1", "3", "4", "6"],
+"respostaCorreta": "2"
+},
+{
+"id": 11,
+"categoria": "Retificadores Monofásicos",
+"pergunta": "Qual é a principal diferença entre um retificador de onda completa em ponte e um de ponto médio?",
+"alternativas": ["Ponte usa 4 diodos sem transformador centro-tap; ponto-médio usa 2 diodos e transformador com centro-tap", "Ponte usa 2 diodos; ponto-médio usa 4 diodos", "Ponte gera onda completa com 2 diodos; ponto-médio gera meia-onda", "Não há diferença; são funcionamentos idênticos", "Ponte necessita de transformador especial; ponto-médio não"],
+"respostaCorreta": "Ponte usa 4 diodos sem transformador centro-tap; ponto-médio usa 2 diodos e transformador com centro-tap"
+},
+{
+"id": 12,
+"categoria": "Retificadores Monofásicos",
+"pergunta": "Em um retificador monofásico de meia onda conectado a 100 V RMS (60 Hz) com carga resistiva, a tensão média de saída aproximada (Vdc) é de:",
+"alternativas": ["45 V", "90 V", "60 V", "30 V", "100 V"],
+"respostaCorreta": "45 V"
+},
+{
+"id": 13,
+"categoria": "Retificadores Monofásicos",
+"pergunta": "Em um retificador monofásico de onda completa (ponte) conectado a 120 V RMS (60 Hz) com carga resistiva, a tensão média de saída aproximada (Vdc) é de:",
+"alternativas": ["108 V", "94 V", "120 V", "85 V", "170 V"],
+"respostaCorreta": "108 V"
+},
+{
+"id": 14,
+"categoria": "Retificadores Monofásicos",
+"pergunta": "Como é a forma de onda da tensão na carga de um retificador de meia onda com carga resistiva?",
+"alternativas": ["Uma meia-senoide (somente semiciclos positivos)", "Sinal senoidal completo (ambos os semiciclos)", "Onda quadrada", "Onda triangular", "Corrente contínua sem variação"],
+"respostaCorreta": "Uma meia-senoide (somente semiciclos positivos)"
+},
+{
+"id": 15,
+"categoria": "Retificadores Monofásicos",
+"pergunta": "Qual é o ângulo de condução (em radianos) de um retificador monofásico de meia onda com carga puramente resistiva alimentado por tensão senoidal?",
+"alternativas": ["π rad", "2π rad", "π/2 rad", "0", "Nenhum deles"],
+"respostaCorreta": "π rad"
+},
+{
+"id": 16,
+"categoria": "Retificadores Monofásicos",
+"pergunta": "Em um retificador monofásico de meia onda com carga RL, a corrente de carga está:",
+"alternativas": ["Atrasada em relação à tensão de saída", "Adiantada em relação à tensão de saída", "Em fase com a tensão de saída", "Sem relação definida", "Zerada"],
+"respostaCorreta": "Atrasada em relação à tensão de saída"
+},
+{
+"id": 17,
+"categoria": "Retificadores Monofásicos",
+"pergunta": "Em um retificador monofásico de meia onda com carga predominantemente capacitiva, como é a corrente de carga?",
+"alternativas": ["Flui principalmente no início de cada semiciclo (picos iniciais)", "Flui principalmente no final de cada semiciclo (picos finais)", "Fica em fase com a tensão", "Não conduz em nenhum momento", "É sempre constante"],
+"respostaCorreta": "Flui principalmente no início de cada semiciclo (picos iniciais)"
+},
+{
+"id": 18,
+"categoria": "Retificadores Monofásicos",
+"pergunta": "Se a carga de um retificador de meia onda for puramente resistiva, qual é o fator de potência da carga?",
+"alternativas": ["1 (senoidal em fase)", "0,5", "0", "Não definido", "-1"],
+"respostaCorreta": "1 (senoidal em fase)"
+},
+{
+"id": 19,
+"categoria": "Retificadores Monofásicos",
+"pergunta": "Qual é o ângulo de condução (em graus) de um retificador monofásico de meia onda com carga puramente resistiva alimentado por tensão senoidal?",
+"alternativas": ["180°", "360°", "90°", "0°", "Nenhum"],
+"respostaCorreta": "180°"
+},
+{
+"id": 20,
+"categoria": "Retificadores Monofásicos",
+"pergunta": "Em um retificador monofásico de onda completa em ponte alimentado por 120 V RMS, qual é a tensão eficaz (RMS) na carga resistiva?",
+"alternativas": ["120 V", "85 V", "60 V", "170 V", "94 V"],
+"respostaCorreta": "120 V"
+},
+{
+"id": 21,
+"categoria": "Retificadores Trifásicos",
+"pergunta": "No retificador trifásico de onda completa (ponte de 6 diodos) com carga resistiva, a tensão média de saída (Vdc) em função da tensão máxima de fase (Vp) é aproximadamente:",
+"alternativas": ["3·Vp/π", "2·Vp/π", "Vp/π", "6·Vp/π", "Vp"],
+"respostaCorreta": "3·Vp/π"
+},
+{
+"id": 22,
+"categoria": "Retificadores Trifásicos",
+"pergunta": "Quantos diodos são usados em um retificador trifásico de onda completa (ponte de 6 pulsos)?",
+"alternativas": ["6", "3", "12", "2", "4"],
+"respostaCorreta": "6"
+},
+{
+"id": 23,
+"categoria": "Retificadores Trifásicos",
+"pergunta": "Qual é a frequência da tensão de saída em um retificador trifásico de onda completa (6 pulsos) quando a fonte de entrada é 60 Hz?",
+"alternativas": ["360 Hz", "60 Hz", "180 Hz", "300 Hz", "120 Hz"],
+"respostaCorreta": "360 Hz"
+},
+{
+"id": 24,
+"categoria": "Retificadores Trifásicos",
+"pergunta": "Qual é a frequência da tensão de saída em um retificador trifásico de onda completa (6 pulsos) quando a fonte de entrada é 50 Hz?",
+"alternativas": ["300 Hz", "150 Hz", "100 Hz", "250 Hz", "60 Hz"],
+"respostaCorreta": "300 Hz"
+},
+{
+"id": 25,
+"categoria": "Retificadores Trifásicos",
+"pergunta": "Em um retificador trifásico de 6 pulsos alimentado por 220 V RMS de tensão de linha, qual a tensão média de saída aproximada (Vdc) em carga resistiva?",
+"alternativas": ["172 V", "127 V", "220 V", "85 V", "94 V"],
+"respostaCorreta": "172 V"
+},
+{
+"id": 26,
+"categoria": "Retificadores Trifásicos",
+"pergunta": "Qual é a frequência da tensão de saída em um retificador trifásico de meia onda quando a fonte de entrada é 60 Hz?",
+"alternativas": ["180 Hz", "60 Hz", "120 Hz", "300 Hz", "360 Hz"],
+"respostaCorreta": "180 Hz"
+},
+{
+"id": 27,
+"categoria": "Retificadores Trifásicos",
+"pergunta": "Quantos diodos são necessários em um retificador trifásico de meia onda?",
+"alternativas": ["3", "6", "2", "4", "1"],
+"respostaCorreta": "3"
+},
+{
+"id": 28,
+"categoria": "Retificadores Trifásicos",
+"pergunta": "Em um retificador trifásico de onda completa (ponte), quantos diodos conduzem simultaneamente em cada instante?",
+"alternativas": ["2", "3", "1", "4", "6"],
+"respostaCorreta": "2"
+},
+{
+"id": 29,
+"categoria": "Retificadores Trifásicos",
+"pergunta": "Se a tensão de linha trifásica (220 V) está em ligação estrela, qual é a tensão máxima (pico) em cada fase?",
+"alternativas": ["180 V", "220 V", "127 V", "90 V", "155 V"],
+"respostaCorreta": "180 V"
+},
+{
+"id": 30,
+"categoria": "Retificadores Trifásicos",
+"pergunta": "Em um retificador trifásico de ponte, por quantos graus elétricos cada par de diodos conduz em cada ciclo?",
+"alternativas": ["120°", "60°", "90°", "180°", "30°"],
+"respostaCorreta": "120°"
+},
+{
+"id": 31,
+"categoria": "Retificadores Trifásicos",
+"pergunta": "Qual é a frequência da tensão de saída em um retificador trifásico de meia onda quando a fonte de entrada é 50 Hz?",
+"alternativas": ["150 Hz", "50 Hz", "100 Hz", "300 Hz", "250 Hz"],
+"respostaCorreta": "150 Hz"
+},
+{
+"id": 32,
+"categoria": "Retificadores Trifásicos",
+"pergunta": "Quantos pulsos por ciclo tem um retificador trifásico de onda completa (ponte de 6 pulsos)?",
+"alternativas": ["6", "3", "12", "9", "4"],
+"respostaCorreta": "6"
+},
+{
+"id": 33,
+"categoria": "Retificadores Trifásicos",
+"pergunta": "Em um retificador trifásico de 6 pulsos alimentado por 380 V RMS (tensão de linha), a tensão média de saída aproximada (Vdc) é:",
+"alternativas": ["296 V", "220 V", "380 V", "310 V", "340 V"],
+"respostaCorreta": "296 V"
+},
+{
+"id": 34,
+"categoria": "Retificadores Trifásicos",
+"pergunta": "Em um retificador trifásico de onda completa controlado (ponte de 6 pulsos) com carga indutiva (continua), a tensão média de saída Vdc em função do ângulo de disparo α é aproximadamente:",
+"alternativas": ["(3·Vp/π)·cos(α)", "(3·Vp/π)·sin(α)", "Vp/π", "2·Vp/π·cos(α)", "3·Vp/π"],
+"respostaCorreta": "(3·Vp/π)·cos(α)"
+},
+{
+"id": 35,
+"categoria": "Retificadores Trifásicos",
+"pergunta": "No retificador trifásico controlado de 6 pulsos, quando α = 90°, a tensão média de saída Vdc se torna aproximadamente:",
+"alternativas": ["0", "Máxima", "Negativa", "Indefinida", "Igual ao valor sem atraso"],
+"respostaCorreta": "0"
+},
+{
+"id": 36,
+"categoria": "Retificadores Trifásicos",
+"pergunta": "Para obter uma saída de 12 pulsos em um retificador trifásico, qual é a configuração usual dos retificadores e transformadores?",
+"alternativas": ["Dois retificadores de 6 pulsos com secundários defasados em 30°", "Um retificador de 12 diodos em série", "Seis retificadores de 2 pulsos cada", "Três retificadores de 4 pulsos", "Não é possível"],
+"respostaCorreta": "Dois retificadores de 6 pulsos com secundários defasados em 30°"
+},
+{
+"id": 37,
+"categoria": "Retificadores Trifásicos",
+"pergunta": "Em um retificador trifásico de ponte (6 diodos) alimentado por 220 V RMS, qual a tensão inversa máxima (VRRM) que cada diodo deve suportar?",
+"alternativas": ["311 V", "155 V", "220 V", "440 V", "110 V"],
+"respostaCorreta": "311 V"
+},
+{
+"id": 38,
+"categoria": "Retificadores Trifásicos",
+"pergunta": "No retificador trifásico de 6 pulsos com ângulo de disparo α=0, a tensão média de saída Vdc em função da tensão de linha RMS (V_L) é aproximadamente:",
+"alternativas": ["0,78·V_L", "0,637·V_L", "0,45·V_L", "1,0·V_L", "0,9·V_L"],
+"respostaCorreta": "0,78·V_L"
+},
+{
+"id": 39,
+"categoria": "Retificadores Trifásicos",
+"pergunta": "Quantos tiristores são necessários em um retificador trifásico de onda completa controlado (ponte de 6 pulsos)?",
+"alternativas": ["6", "3", "12", "9", "4"],
+"respostaCorreta": "6"
+},
+{
+"id": 40,
+"categoria": "Retificadores Trifásicos",
+"pergunta": "Quantos tiristores são necessários em um retificador trifásico de meia onda controlado (3 pulsos)?",
+"alternativas": ["3", "6", "2", "4", "9"],
+"respostaCorreta": "3"
+},
+{
+"id": 41,
+"categoria": "Conversores CC/CC (Buck)",
+"pergunta": "Qual a relação entre a tensão de saída Vout e a tensão de entrada Vin em um conversor buck ideal em condução contínua?",
+"alternativas": ["Vout = D · Vin", "Vout = Vin / D", "Vout = Vin · (1 - D)", "Vout = Vin^2 · D", "Vout = √D · Vin"],
+"respostaCorreta": "Vout = D · Vin"
+},
+{
+"id": 42,
+"categoria": "Conversores CC/CC (Buck)",
+"pergunta": "Em um conversor buck ideal, se Vin = 100 V e D = 0,5 em modo contínuo, qual é aproximadamente a tensão de saída Vout?",
+"alternativas": ["50 V", "100 V", "25 V", "75 V", "150 V"],
+"respostaCorreta": "50 V"
+},
+{
+"id": 43,
+"categoria": "Conversores CC/CC (Buck)",
+"pergunta": "Em um conversor buck ideal, se Vin = 100 V e D = 0,25 em modo contínuo, qual é aproximadamente a tensão de saída Vout?",
+"alternativas": ["25 V", "75 V", "50 V", "100 V", "125 V"],
+"respostaCorreta": "25 V"
+},
+{
+"id": 44,
+"categoria": "Conversores CC/CC (Buck)",
+"pergunta": "Qual componente armazena energia durante o ciclo de chaveamento em um conversor buck ideal?",
+"alternativas": ["Indutor", "Capacitor de saída", "Diodo", "Resistor", "Transformador"],
+"respostaCorreta": "Indutor"
+},
+{
+"id": 45,
+"categoria": "Conversores CC/CC (Buck)",
+"pergunta": "Por que um conversor buck utiliza um indutor em série com a carga?",
+"alternativas": ["Para suavizar a corrente de saída e armazenar energia", "Para reduzir a tensão de entrada", "Para bloquear harmônicas de alta frequência", "Para aumentar o ripple de corrente", "Para baixar a frequência de saída"],
+"respostaCorreta": "Para suavizar a corrente de saída e armazenar energia"
+},
+{
+"id": 46,
+"categoria": "Conversores CC/CC (Buck)",
+"pergunta": "Quando o interruptor (transistor) do conversor buck está ligado (ON), o que acontece com o diodo de roda livre?",
+"alternativas": ["Fica polarizado reversamente (não conduz)", "Conduz em curto-circuito", "Torna-se capacitivamente carregado", "Não muda de estado", "Sempre conduz corrente"],
+"respostaCorreta": "Fica polarizado reversamente (não conduz)"
+},
+{
+"id": 47,
+"categoria": "Conversores CC/CC (Buck)",
+"pergunta": "Quando o interruptor do conversor buck está desligado (OFF), o que acontece com o diodo de roda livre?",
+"alternativas": ["Fica em condução permitindo a continuidade da corrente do indutor", "Permanece polarizado reversamente", "Dá curto na fonte", "Desliga completamente o circuito", "Queima"],
+"respostaCorreta": "Fica em condução permitindo a continuidade da corrente do indutor"
+},
+{
+"id": 48,
+"categoria": "Conversores CC/CC (Buck)",
+"pergunta": "Qual o efeito de dobrar a frequência de chaveamento em um conversor buck, mantendo os demais parâmetros fixos?",
+"alternativas": ["Reduz aproximadamente à metade o ripple de corrente do indutor", "Dobra o ripple de corrente do indutor", "Não altera o ripple de corrente", "Triplica o ripple de corrente", "Anula o ripple de corrente"],
+"respostaCorreta": "Reduz aproximadamente à metade o ripple de corrente do indutor"
+},
+{
+"id": 49,
+"categoria": "Conversores CC/CC (Buck)",
+"pergunta": "Como é a forma de onda da corrente no indutor de um conversor buck em modo contínuo?",
+"alternativas": ["Triangular (subida e descida linear)", "Senoidal", "Quadrada", "Impulsos delta", "Constante"],
+"respostaCorreta": "Triangular (subida e descida linear)"
+},
+{
+"id": 50,
+"categoria": "Conversores CC/CC (Buck)",
+"pergunta": "Em um conversor buck, qual fator aumenta a tendência de operação em modo contínuo (CCM)?",
+"alternativas": ["Menor resistência de carga (corrente maior)", "Maior resistência de carga (corrente menor)", "Diminuição da tensão de entrada", "Aumento da frequência de chaveamento", "Diminuição da capacitância de saída"],
+"respostaCorreta": "Menor resistência de carga (corrente maior)"
+},
+{
+"id": 51,
+"categoria": "Conversores CC/CC (Buck)",
+"pergunta": "Quando o conversor buck opera em condução contínua e em regime permanente, a corrente média no indutor é igual a:",
+"alternativas": ["A corrente média na carga", "A corrente média de entrada", "Zero", "A corrente de pico", "Depende do capacitor"],
+"respostaCorreta": "A corrente média na carga"
+},
+{
+"id": 52,
+"categoria": "Conversores CC/CC (Buck)",
+"pergunta": "No conversor buck ideal, se D = 1 (100% ligado), a tensão de saída Vout será:",
+"alternativas": ["Igual à tensão de entrada Vin", "Zero", "Indefinida", "Metade da tensão de entrada", "Dobrada"],
+"respostaCorreta": "Igual à tensão de entrada Vin"
+},
+{
+"id": 53,
+"categoria": "Conversores CC/CC (Buck)",
+"pergunta": "No conversor buck ideal, se D = 0 (100% desligado) e carga puramente resistiva, a tensão de saída Vout será:",
+"alternativas": ["0 V", "Igual à entrada", "Metade da entrada", "Indefinida", "Inversão de sinal"],
+"respostaCorreta": "0 V"
+},
+{
+"id": 54,
+"categoria": "Conversores CC/CC (Buck)",
+"pergunta": "Se o valor da indutância L for aumentado no conversor buck, o que acontece com o ripple (ondulação) da corrente do indutor?",
+"alternativas": ["Diminui", "Aumenta", "Permanece igual", "Dobra", "Zera"],
+"respostaCorreta": "Diminui"
+},
+{
+"id": 55,
+"categoria": "Conversores CC/CC (Buck)",
+"pergunta": "Qual é a função principal do capacitor de saída em um conversor buck?",
+"alternativas": ["Suavizar a tensão de saída e fornecer corrente à carga durante os intervalos desligados", "Aumentar a tensão de saída", "Bloquear harmônicas de corrente", "Armazenar tensão de entrada", "Controlar a frequência de saída"],
+"respostaCorreta": "Suavizar a tensão de saída e fornecer corrente à carga durante os intervalos desligados"
+},
+{
+"id": 56,
+"categoria": "Conversores CC/CC (Buck)",
+"pergunta": "Qual é o nome comum (em inglês) para um conversor buck?",
+"alternativas": ["Step-down chopper", "Step-up chopper", "Inverter", "Boost converter", "Regulator"],
+"respostaCorreta": "Step-down chopper"
+},
+{
+"id": 57,
+"categoria": "Conversores CC/CC (Buck)",
+"pergunta": "Qual é a função básica do transistor (chave) em um conversor buck?",
+"alternativas": ["Ligar e desligar a fonte de entrada de modo pulsado para regular a tensão média de saída", "Amplificar a tensão de saída", "Converter CA em CC", "Dissipar a energia excedente", "Bloquear a corrente de retorno"],
+"respostaCorreta": "Ligar e desligar a fonte de entrada de modo pulsado para regular a tensão média de saída"
+},
+{
+"id": 58,
+"categoria": "Conversores CC/CC (Buck)",
+"pergunta": "Qual a faixa de tensão de saída (Vout) possível em um conversor buck ideal em relação à tensão de entrada (Vin)?",
+"alternativas": ["Entre 0 e Vin (0 ≤ Vout ≤ Vin)", "Sempre acima de Vin", "Entre Vin/2 e Vin", "Exatamente metade de Vin", "Não há limitação"],
+"respostaCorreta": "Entre 0 e Vin (0 ≤ Vout ≤ Vin)"
+},
+{
+"id": 59,
+"categoria": "Conversores CC/CC (Buck)",
+"pergunta": "Como é classificado um conversor buck?",
+"alternativas": ["Conversor CC/CC abaixador (step-down)", "Conversor CC/CC elevador (boost)", "Conversor CC/CA", "Conversor AC/AC", "Regulador linear"],
+"respostaCorreta": "Conversor CC/CC abaixador (step-down)"
+},
+{
+"id": 60,
+"categoria": "Conversores CC/CC (Buck)",
+"pergunta": "Que componente semicondutor de chaveamento é tipicamente utilizado como chave principal em conversores buck de comutação rápida?",
+"alternativas": ["MOSFET", "BJT", "SCR", "Triac", "Diodo"],
+"respostaCorreta": "MOSFET"
+},
+{
+"id": 61,
+"categoria": "Inversores Monofásicos",
+"pergunta": "Quantos transistores são usados em um inversor monofásico de ponte H completo?",
+"alternativas": ["4", "2", "6", "3", "5"],
+"respostaCorreta": "4"
+},
+{
+"id": 62,
+"categoria": "Inversores Monofásicos",
+"pergunta": "Quantos transistores são usados em um inversor monofásico meio-puente (half-bridge)?",
+"alternativas": ["2", "4", "6", "3", "1"],
+"respostaCorreta": "2"
+},
+{
+"id": 63,
+"categoria": "Inversores Monofásicos",
+"pergunta": "Em modulação por SPWM de um inversor monofásico, aumentar a amplitude do sinal modulador resulta em:",
+"alternativas": ["Maior amplitude da componente fundamental da tensão de saída", "Menor amplitude da componente fundamental", "Maior frequência fundamental", "Menor frequência fundamental", "Mais distorções harmônicas"],
+"respostaCorreta": "Maior amplitude da componente fundamental da tensão de saída"
+},
+{
+"id": 64,
+"categoria": "Inversores Monofásicos",
+"pergunta": "Em modulação por SPWM de um inversor monofásico, o que determina a frequência da componente fundamental da tensão de saída?",
+"alternativas": ["A frequência do sinal modulador (onda de referência)", "A frequência do portador (onda triangular)", "A frequência do clock interno", "O valor do ângulo de disparo", "A amplitude do sinal modulador"],
+"respostaCorreta": "A frequência do sinal modulador (onda de referência)"
+},
+{
+"id": 65,
+"categoria": "Inversores Monofásicos",
+"pergunta": "Que dispositivo semicondutor de potência é tipicamente usado como chave em inversores monofásicos de potência?",
+"alternativas": ["IGBT (Transistor Bipolar Insulado)", "MOSFET", "Tiristor (SCR)", "Diodo", "Triac"],
+"respostaCorreta": "IGBT (Transistor Bipolar Insulado)"
+},
+{
+"id": 66,
+"categoria": "Inversores Monofásicos",
+"pergunta": "Quais são as principais harmônicas geradas por um inversor monofásico sem filtro (onda quadrada)?",
+"alternativas": ["Somente harmônicas ímpares (3ª, 5ª, 7ª, ...)", "Somente harmônicas pares (2ª, 4ª, ...)", "Todas as harmônicas", "Apenas a fundamental", "Harmônicas desaparecem"],
+"respostaCorreta": "Somente harmônicas ímpares (3ª, 5ª, 7ª, ...)"
+},
+{
+"id": 67,
+"categoria": "Inversores Monofásicos",
+"pergunta": "Comparando um inversor monofásico em ponte completa com um meio-puente sob mesma tensão de entrada, a vantagem da ponte completa é:",
+"alternativas": ["Maior amplitude de saída (o dobro)", "Metade da amplitude de saída", "Menos harmônicas", "Mesma amplitude mas metade da corrente", "Indeterminado"],
+"respostaCorreta": "Maior amplitude de saída (o dobro)"
+},
+{
+"id": 68,
+"categoria": "Inversores Monofásicos",
+"pergunta": "Em SPWM, o que determina a frequência do sinal fundamental de saída de um inversor monofásico?",
+"alternativas": ["A frequência do sinal de referência senoidal", "A frequência do sinal portador triangular", "A frequência de ressonância do filtro", "O ângulo de disparo", "A potência da carga"],
+"respostaCorreta": "A frequência do sinal de referência senoidal"
+},
+{
+"id": 69,
+"categoria": "Inversores Monofásicos",
+"pergunta": "Em um inversor de onda quadrada (sem modulação) com tensão de alimentação V (±V), a tensão de pico da componente fundamental da saída é aproximadamente:",
+"alternativas": ["0,9·V", "V", "0,5·V", "1,1·V", "0"],
+"respostaCorreta": "0,9·V"
+},
+{
+"id": 70,
+"categoria": "Inversores Monofásicos",
+"pergunta": "Qual é a principal função de um inversor monofásico?",
+"alternativas": ["Converter corrente contínua em corrente alternada", "Converter corrente alternada em contínua", "Regenerar energia", "Controlar a corrente de entrada", "Funciona como um transformador"],
+"respostaCorreta": "Converter corrente contínua em corrente alternada"
+},
+{
+"id": 71,
+"categoria": "Inversores Monofásicos",
+"pergunta": "Com modulação unipolar, quantos níveis de tensão o inversor monofásico de ponte completa gera na saída?",
+"alternativas": ["3", "2", "4", "5", "1"],
+"respostaCorreta": "3"
+},
+{
+"id": 72,
+"categoria": "Inversores Monofásicos",
+"pergunta": "Com modulação bipolar em um inversor monofásico de ponte completa, quantos níveis de tensão a saída possui?",
+"alternativas": ["2 (+V, -V)", "3", "4", "5", "6"],
+"respostaCorreta": "2 (+V, -V)"
+},
+{
+"id": 73,
+"categoria": "Inversores Monofásicos",
+"pergunta": "Sem qualquer filtragem, qual é a forma de onda de saída básica de um inversor monofásico de ponte?",
+"alternativas": ["Quadrada", "Senoidal", "Triangular", "Impulsiva", "Ruída"],
+"respostaCorreta": "Quadrada"
+},
+{
+"id": 74,
+"categoria": "Inversores Monofásicos",
+"pergunta": "Quantos diodos de roda livre existem em um inversor monofásico de ponte completa (H-bridge)?",
+"alternativas": ["4", "2", "0", "1", "6"],
+"respostaCorreta": "4"
+},
+{
+"id": 75,
+"categoria": "Inversores Monofásicos",
+"pergunta": "Quando os transistores S1 e S4 conduzem simultaneamente em um inversor monofásico de ponte completa, a tensão na carga é:",
+"alternativas": ["+V", "0", "-V", "V/2", "Indefinida"],
+"respostaCorreta": "+V"
+},
+{
+"id": 76,
+"categoria": "Inversores Monofásicos",
+"pergunta": "Se a carga de um inversor monofásico for puramente resistiva e a comutação for ideal, qual será o fator de potência?",
+"alternativas": ["1", "0,5", "0", "-1", "Indefinido"],
+"respostaCorreta": "1"
+},
+{
+"id": 77,
+"categoria": "Inversores Monofásicos",
+"pergunta": "Em um inversor monofásico sem filtragem (onda quadrada ±V), o valor eficaz (RMS) da componente fundamental de saída é aproximadamente:",
+"alternativas": ["0,636·V", "0,9·V", "0,5·V", "1,0·V", "0,707·V"],
+"respostaCorreta": "0,636·V"
+},
+{
+"id": 78,
+"categoria": "Inversores Monofásicos",
+"pergunta": "Em um inversor monofásico de ponte completa, quantos transistores conduzem simultaneamente em cada instante?",
+"alternativas": ["2 (um em cada perna)", "1", "3", "4", "Nenhum"],
+"respostaCorreta": "2 (um em cada perna)"
+},
+{
+"id": 79,
+"categoria": "Inversores Monofásicos",
+"pergunta": "Quando os transistores S1 e S3 conduzem simultaneamente em um inversor monofásico de ponte completa, qual é a tensão na carga?",
+"alternativas": ["0 V", "+V", "-V", "V/2", "Indefinida"],
+"respostaCorreta": "0 V"
+},
+{
+"id": 80,
+"categoria": "Inversores Monofásicos",
+"pergunta": "Em cada instante de chaveamento de um inversor monofásico de ponte completa, quantos transistores conduzem simultaneamente?",
+"alternativas": ["2 (um em cada perna)", "1", "3", "4", "Nenhum"],
+"respostaCorreta": "2 (um em cada perna)"
+},
+{
+"id": 81,
+"categoria": "Inversores Trifásicos",
+"pergunta": "Quantos transistores são usados em um inversor trifásico completo (ponte de 3 fases)?",
+"alternativas": ["6", "3", "9", "2", "4"],
+"respostaCorreta": "6"
+},
+{
+"id": 82,
+"categoria": "Inversores Trifásicos",
+"pergunta": "Quantos diodos de roda livre existem em um inversor trifásico de ponte completa?",
+"alternativas": ["6", "3", "12", "0", "2"],
+"respostaCorreta": "6"
+},
+{
+"id": 83,
+"categoria": "Inversores Trifásicos",
+"pergunta": "Em um inversor trifásico controlado por SPWM, o que determina a frequência da componente fundamental de cada fase de saída?",
+"alternativas": ["A frequência do sinal de referência senoidal", "A frequência do portador triangular", "A frequência da fonte DC", "A potência da carga", "O ângulo de disparo"],
+"respostaCorreta": "A frequência do sinal de referência senoidal"
+},
+{
+"id": 84,
+"categoria": "Inversores Trifásicos",
+"pergunta": "Em carga trifásica conectada em estrela, como se relacionam a tensão de linha (V_L) e a tensão de fase (V_f)?",
+"alternativas": ["V_L = √3 · V_f", "V_L = V_f", "V_L = V_f/√3", "V_L = 2·V_f", "V_L = V_f/2"],
+"respostaCorreta": "V_L = √3 · V_f"
+},
+{
+"id": 85,
+"categoria": "Inversores Trifásicos",
+"pergunta": "Em carga conectada em estrela, a tensão de linha é √3 vezes a tensão de fase; em carga em delta, a tensão de linha é:",
+"alternativas": ["Igual à tensão de fase", "√3 vezes a tensão de fase", "Duas vezes a tensão de fase", "Metade da tensão de fase", "Indefinida"],
+"respostaCorreta": "Igual à tensão de fase"
+},
+{
+"id": 86,
+"categoria": "Inversores Trifásicos",
+"pergunta": "Quantos pulsos por ciclo são produzidos na saída de um inversor trifásico de onda quadrada (saída entre fases)?",
+"alternativas": ["6", "3", "12", "9", "4"],
+"respostaCorreta": "6"
+},
+{
+"id": 87,
+"categoria": "Inversores Trifásicos",
+"pergunta": "Qual o deslocamento de fase entre duas fases quaisquer em um sistema trifásico equilibrado?",
+"alternativas": ["120°", "90°", "60°", "180°", "45°"],
+"respostaCorreta": "120°"
+},
+{
+"id": 88,
+"categoria": "Inversores Trifásicos",
+"pergunta": "Em uma ligação delta equilibrada, como se relacionam a corrente de linha (I_L) e a corrente de fase (I_f)?",
+"alternativas": ["I_L = √3 · I_f", "I_L = I_f", "I_L = I_f/√3", "I_L = 2·I_f", "I_L = I_f/2"],
+"respostaCorreta": "I_L = √3 · I_f"
+},
+{
+"id": 89,
+"categoria": "Inversores Trifásicos",
+"pergunta": "Em um inversor trifásico de ponte, quantos transistores conduzem simultaneamente a cada instante em operação normal?",
+"alternativas": ["2", "3", "1", "4", "Nenhum"],
+"respostaCorreta": "2"
+},
+{
+"id": 90,
+"categoria": "Inversores Trifásicos",
+"pergunta": "Em um sistema trifásico equilibrado com cargas ligadas em estrela, como é a corrente no ponto neutro quando as cargas são balanceadas?",
+"alternativas": ["Zero (sem corrente no neutro)", "Igual à corrente de linha", "Igual à corrente de fase", "Dobro da corrente de fase", "Não há ponto neutro"],
+"respostaCorreta": "Zero (sem corrente no neutro)"
+},
+{
+"id": 91,
+"categoria": "Inversores Trifásicos",
+"pergunta": "Em modulação SPWM trifásica, quantos sinais portadores triangulares defasados são usados?",
+"alternativas": ["3", "1", "2", "4", "6"],
+"respostaCorreta": "3"
+},
+{
+"id": 92,
+"categoria": "Inversores Trifásicos",
+"pergunta": "Qual é o ângulo de deslocamento entre os sinais portadores em modulação SPWM trifásica comum?",
+"alternativas": ["120°", "60°", "90°", "180°", "45°"],
+"respostaCorreta": "120°"
+},
+{
+"id": 93,
+"categoria": "Inversores Trifásicos",
+"pergunta": "Em um inversor trifásico equilibrado, quais harmônicas de corrente são suprimidas nas tensões de linha entre fases?",
+"alternativas": ["Harmônicas múltiplas de 3 (3ª, 9ª, ...)", "Todas as harmônicas ímpares", "Harmônicas pares", "Todas as harmônicas múltiplas de 6", "Nenhuma harmônica"],
+"respostaCorreta": "Harmônicas múltiplas de 3 (3ª, 9ª, ...)"
+},
+{
+"id": 94,
+"categoria": "Inversores Trifásicos",
+"pergunta": "Que dispositivo semicondutor de potência é tipicamente usado como chave em inversores trifásicos de potência?",
+"alternativas": ["IGBT", "MOSFET", "SCR", "Triac", "Diodo"],
+"respostaCorreta": "IGBT"
+},
+{
+"id": 95,
+"categoria": "Inversores Trifásicos",
+"pergunta": "No sistema trifásico em estrela, a tensão de linha VAB é dada pela diferença entre quais tensões de fase?",
+"alternativas": ["VAN - VBN", "VAN + VBN", "VBN - VCN", "VAN + VCN", "VBN + VCN"],
+"respostaCorreta": "VAN - VBN"
+},
+{
+"id": 96,
+"categoria": "Inversores Trifásicos",
+"pergunta": "Qual é a defasagem entre a tensão de fase e a tensão de linha em um sistema trifásico em estrela?",
+"alternativas": ["30°", "60°", "90°", "120°", "45°"],
+"respostaCorreta": "30°"
+},
+{
+"id": 97,
+"categoria": "Inversores Trifásicos",
+"pergunta": "Em modulação SPWM trifásica, quantos sinais de referência senoidais defasados são usados para gerar as três fases?",
+"alternativas": ["3", "1", "2", "6", "4"],
+"respostaCorreta": "3"
+},
+{
+"id": 98,
+"categoria": "Inversores Trifásicos",
+"pergunta": "Em modulação SPWM trifásica, aumentar o índice de modulação (amplitude das senóides de referência) resulta em:",
+"alternativas": ["Maior amplitude da componente fundamental em cada fase", "Menor amplitude da fundamental", "Mais harmônicas ímpares", "Mudança na frequência", "Nenhum efeito"],
+"respostaCorreta": "Maior amplitude da componente fundamental em cada fase"
+}
+]
